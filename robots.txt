@@ -1,0 +1,4 @@
+# robots.txt ÇëÎğÉ¾³ı±¾ÎÄ¼ş
+User-agent: *
+Disallow: /plugin/
+Disallow: /result.php
